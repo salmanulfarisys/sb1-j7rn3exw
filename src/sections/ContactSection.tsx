@@ -47,7 +47,7 @@ const ContactSection: React.FC = () => {
       });
     } catch (error) {
       console.error('Webhook Error:', error);
-      alert('Submission failed. Please try again.');
+      alert('Uhh. no.. Jonathan, your submission failed. We will get back before you expire');
     }
   };
   
